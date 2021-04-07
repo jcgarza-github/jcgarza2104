@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Volunteering',
-    'summary': """A module to help you org your dot-org""",
+    'summary': """A module to help you with your non-profit.""",
     'description': """
        A module to help non-profits organize their volunteers and assets.
        Need I say more??
