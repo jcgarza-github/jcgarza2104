@@ -15,6 +15,6 @@
         
     ],
     'demo': [
-        
+        'demo/bibliophile_demo.xml',
     ],
 }
