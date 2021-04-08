@@ -13,7 +13,7 @@
         <record model="library.book" id="f_0001">
             <field name="title">Contact</field>
             <field name="author">Carl Sagan</field>
-            <field name="description">CContact is a 1985 hard science fiction novel by American scientist Carl Sagan. It deals with the theme of contact between humanity and a more technologically advanced, extraterrestrial life form. It ranked No. 7 on the 1985 U.S. bestseller list.</field>
+            <field name="description">Contact is a 1985 hard science fiction novel by American scientist Carl Sagan. It deals with the theme of contact between humanity and a more technologically advanced, extraterrestrial life form. It ranked No. 7 on the 1985 U.S. bestseller list.</field>
             <field name="category">fiction</field>
         </record>
 
