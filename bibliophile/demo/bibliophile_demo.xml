@@ -21,7 +21,7 @@
         <record model="library.book" id="c_0001">
             <field name="title">The Little Prince</field>
             <field name="author">Antoine de Saint-Exupéry</field>
-            <field name="description">The Little Prince is a novella by French aristocrat, writer, and aviator Antoine de Saint-Exupéry. It was first published in English and French in the US by Reynal & Hitchcock in April 1943, and posthumously in France following the liberation of France as Saint-Exupéry\'s works had been banned by the Vichy Regime.</field>
+            <field name="description">The Little Prince is a novella by French aristocrat, writer, and aviator Antoine de Saint-Exupéry. It was first published in English and French in the US by Reynal &amp; Hitchcock in April 1943, and posthumously in France following the liberation of France as Saint-Exupéry\'s works had been banned by the Vichy Regime.</field>
             <field name="category">childrens</field>
         </record>
 
