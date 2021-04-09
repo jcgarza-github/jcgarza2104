@@ -11,7 +11,7 @@
         </record>
 
         <record model="nonprofit.recipient" id="r_0001">
-            <field name="name">Asian Women\'s Shelter</field>
+            <field name="name">Asian Women's Shelter</field>
             <field name="phone">(unknown)</field>
             <field name="address">3543 18th St
                 San Francisco, CA 94110</field>
@@ -20,7 +20,7 @@
         <record model="nonprofit.volunteer" id="v_0001">
             <field name="name">Sam Grey</field>
             <field name="phone">(415) 123-4567</field>
-            <field name="email">sam@yopmail.com</field>
+            <field name="email">sam@amp;yopmail.com</field>
 
         </record>
 
