@@ -11,7 +11,7 @@
         </record>
 
         <record model="nonprofit.recipient" id="r_0001">
-            <field name="name">Asian Women\'s Shelter</field>
+            <field name="name">Asian Women's Shelter</field>
             <field name="phone">(unknown)</field>
             <field name="address">3543 18th St
                 San Francisco, CA 94110</field>
