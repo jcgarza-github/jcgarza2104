@@ -20,7 +20,7 @@
         <record model="nonprofit.volunteer" id="v_0001">
             <field name="name">Sam Grey</field>
             <field name="phone">(415) 123-4567</field>
-            <field name="email">sam@yopmail.com</field>
+            <field name="email">sam@amp;yopmail.com</field>
 
         </record>
 
