@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <data noupdate="1">
+        <record model="library.book" id="nf_0001">
+            <field name="title">Compilers: Principles, Techniques, and Tools</field>
+            <field name="author">Alfred Aho</field>
+            <field name="description">Compilers: Principles, Techniques, and Tools is a computer science textbook by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman about compiler construction for programming languages. First published in 1986, it is widely regarded as the classic definitive compiler technology text.</field>
+            <field name="category">nonfiction</field>
+        </record>
+
+
+        <record model="library.book" id="f_0001">
+            <field name="title">Contact</field>
+            <field name="author">Carl Sagan</field>
+            <field name="description">CContact is a 1985 hard science fiction novel by American scientist Carl Sagan. It deals with the theme of contact between humanity and a more technologically advanced, extraterrestrial life form. It ranked No. 7 on the 1985 U.S. bestseller list.</field>
+            <field name="category">fiction</field>
+        </record>
+
+
+        <record model="library.book" id="c_0001">
+            <field name="title">The Little Prince</field>
+            <field name="author">Antoine de Saint-Exupéry</field>
+            <field name="description">CThe Little Prince is a novella by French aristocrat, writer, and aviator Antoine de Saint-Exupéry. It was first published in English and French in the US by Reynal & Hitchcock in April 1943, and posthumously in France following the liberation of France as Saint-Exupéry's works had been banned by the Vichy Regime.</field>
+            <field name="category">childrens</field>
+        </record>
+
+        <record model="library.member" id="m_0001">
+            <field name="name">Jesse Garza</field>
+            <field name="memberID">1</field>
+        </record>
+
+        <record model="library.member" id="m_0002">
+            <field name="name">Samantha Grey</field>
+            <field name="memberID">2</field>
+        </record>
+
+    </data>
+</odoo>

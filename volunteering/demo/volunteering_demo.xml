@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <data noupdate="1">
+
+        <record model="nonprofit.donor" id="d_0001">
+            <field name="name">Kasa Indian Eatery in the Castro</field>
+            <field name="phone">(415) 621-6940</field>
+            <field name="address">4001 18th St
+                San Francisco, CA 94114</field>
+        </record>
+
+        <record model="nonprofit.recipient" id="r_0001">
+            <field name="name">Asian Women's Shelter</field>
+            <field name="phone">(unknown)</field>
+            <field name="address">3543 18th St
+                San Francisco, CA 94110</field>
+        </record>
+
+        <record model="nonprofit.volunteer" id="v_0001">
+            <field name="name">Sam Grey</field>
+            <field name="phone">(415) 123-4567</field>
+            <field name="email">sam@amp;yopmail.com</field>
+
+        </record>
+
+    </data>
+</odoo>
